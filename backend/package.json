@@ -11,5 +11,11 @@
   "keywords": [],
   "author": "Navjot Singh",
   "license": "ISC",
-  "description": "Supply Chain based project"
+  "description": "Supply Chain based project",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
 }
